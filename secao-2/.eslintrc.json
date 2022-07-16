@@ -19,6 +19,7 @@
     ],
     "rules": {
         "react/no-unused-state": "off",
-        "import/no-named-as-default": "off"
+        "import/no-named-as-default": "off",
+        "no-console": "off"
     }
 }
